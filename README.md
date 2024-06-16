@@ -62,6 +62,4 @@ This project encompasses the following key activities:
 
 ## Contact
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-- **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- **Email:** [aadeshvinodpal339@gmail.com](aadeshvinodpal@gmail.com)
