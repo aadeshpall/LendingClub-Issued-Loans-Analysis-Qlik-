@@ -7,6 +7,9 @@
 The goal of this project is to enhance our lending strategy by leveraging Qlik Cloud, an industry-leading analytics solution, to analyze and visualize LendingClub loan data. Our current strategy lacks sufficient data-driven insights, leading to challenges in accurate risk identification, predicting loan defaults, and dynamically adjusting lending criteria in response to market conditions.
 <div align= "center"><img src="Dashboard.png" /></div>
 
+### Dataset
+I used for this project from kaggle dataset. Visit this [kaggle](https://www.kaggle.com/datasets/husainsb/lendingclub-issued-loans)
+
 ### Objectives
 
 - **Risk Identification:** Develop robust methods for accurately assessing borrower risk using detailed analysis of LendingClub loan data.
