@@ -1,6 +1,6 @@
 # Enhanced Lending Strategy Using Qlik Cloud for Analyzing LendingClub Loan Data
 
-![Qlik Cloud Logo](path/to/qlik-cloud-logo.png) <!-- Optional: Add a logo or screenshot here -->
+![Qlik Cloud Logo]([path/to/qlik-cloud-logo.png](https://upload.wikimedia.org/wikipedia/commons/0/0a/Qlik_Logo_No_Trademark_2_Color_Positive_RGB.png)) <!-- Optional: Add a logo or screenshot here -->
 
 ## Project Overview
 
