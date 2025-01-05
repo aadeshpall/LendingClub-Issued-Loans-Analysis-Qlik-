@@ -66,4 +66,4 @@ This project encompasses the following key activities:
 
 ## Contact
 
-- **Email:** [aadeshvinodpal339@gmail.com](aadeshvinodpal@gmail.com)
+- **Email:** [aadeshvinodpal@gmail.com](aadeshvinodpal@gmail.com)
